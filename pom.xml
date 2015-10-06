@@ -79,6 +79,4 @@
             <scope>provided</scope>
         </dependency>
 	</dependencies>
-
-	<url>http://www.lucenetutorial.com/lucene-in-5-minutes.html</url>
 </project>
